@@ -1,0 +1,11 @@
+// number => 2 to power 53
+// bigint 
+// string => ""
+// boolean => true/false
+// null => standalone value
+// undefined =>
+// symbole => unique
+
+// boject
+// console.log(typeof null) // object data type
+//   console.log(typeof undefined) undefind type
